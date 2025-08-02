@@ -25,7 +25,7 @@ This project implements a hybrid log classification system, combining three comp
 
 ## Folder Structure
 
-1. **`resources/`**:
+1. **`datasets/`**:
    - This folder contains resource files such as test CSV files, output files, etc.
 
 
