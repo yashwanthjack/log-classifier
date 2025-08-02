@@ -47,12 +47,13 @@ If running the notebook in Google Colab, mount your Google Drive to access the d
 from google.colab import drive
 drive.mount('/content/drive')
 ```
+---
 3. **Prepare Dataset**
 Place your synthetic_logs(2).csv dataset in the appropriate directory.
 
 Update file paths in the notebook or scripts if necessary.
 
-python
+---
 
 ## Usage
 
