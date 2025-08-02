@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment folders
+venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Data files (often large, should not be committed)
+*.csv
+*.tsv
+
+# Model files and weights
+*.h5
+*.pt
+*.safetensors
+*.ckpt
+
+# Logs and outputs
+*.log
+*.out
+
+# MacOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
