@@ -1,0 +1,13 @@
+pandas==1.5.3
+numpy==1.24.4
+scikit-learn==1.2.2
+jupyter==1.0.0
+ipython==8.13.2
+ipywidgets==7.7.2
+tqdm==4.65.0
+transformers==4.33.1
+torch==2.0.1
+sentence-transformers==2.2.2
+google-colab==1.0.0
+matplotlib==3.7.1
+seaborn==0.12.2
